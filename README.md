@@ -9,7 +9,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="center" alt="Kenneth Chee | LinkedIn" width="22px" src="https://www.linkedin.com/in/kennethhchee" />][linkedin]
+[<img align="center" alt="📊Kenneth Chee | LinkedIn" width="22px" src="https://www.linkedin.com/in/kennethhchee" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/kennethhchee
 
