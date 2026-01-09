@@ -6,6 +6,8 @@
   - [Menu](https://github.com/kchee7/menu/blob/main/README.md)
 - <b>Creating a Store</b>
   - [Store](https://github.com/kchee7/ITPstore) <b><i></b></i>
+- <b>Creating an Animal Adoption System</b>
+  - [Adoption](https://github.com/kchee7/animaladoption)
 
 <h2> 🤳 Connect with me:</h2>
 
