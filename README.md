@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ken! <br/><a href="https://github.com/joshmadakor1">AI Consultant</a></h1>
+<h1>Hi, I'm Ken! <br/><a href="https://github.com/kchee7/kchee7">AI Consultant</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
