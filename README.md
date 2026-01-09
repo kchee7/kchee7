@@ -6,7 +6,6 @@
   - [Menu](https://github.com/kchee7/menu/blob/main/README.md)
 - <b>Creating a Store</b>
   - [Store](https://github.com/kchee7/ITPstore) <b><i></b></i>
-- <b>PowerShell</b>
 
 <h2> 🤳 Connect with me:</h2>
 
